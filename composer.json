@@ -11,9 +11,6 @@
 	"require": {
 		"php": ">=5.3.0"
 	},
-	"suggest": {
-		"some-thing": "Please don't use this, as it is a test package."
-	},
 	"autoload": {
 		"psr-4": {
 			"Naas\\": "src"
