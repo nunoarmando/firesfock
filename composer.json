@@ -1,0 +1,22 @@
+{
+	"name": "naas/firesfock",
+	"type": "library",
+	"description": "A test library",
+	"keywords": ["firesfock"],
+	"homepage": "http://www.nunoserrano.com",
+	"license": "MIT",
+	"authors": [
+		{"name": "Nuno Serrano", "email": "nunoarmando@gmail.com", "homepage": "http://www.nunoserrano.com", "role": "Developer"}
+	],
+	"require": {
+		"php": ">=5.3.0",
+	},
+	"suggest": {
+		"some-thing": "Please don't use this, as it is a test package.",
+	},
+	"autoload": {
+		"psr-4": {
+			"Naas": "src"
+		}
+	}
+}
