@@ -1,7 +1,5 @@
 <?php
 
-namespace Firesfock;
-
 /*!
  * Firesfock library
  * http://www.nunoserrano.com
@@ -21,4 +19,3 @@ class Firesfock
 	}
 
 }
-?>
